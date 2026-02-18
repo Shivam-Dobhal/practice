@@ -158,4 +158,4 @@ const laptopInfo=({brand,ram,price})=>{
 // // Returns: "Dell laptop with 16GB RAM costs ₹65000"
 
 
-laptopInfo(laptop);
+console.log(laptopInfo(laptop));
