@@ -41,7 +41,7 @@ console.log(square2(10));  // 100
 //     return `${firstName} ${lastName}`;
 // }
 
-// To arrow function:
+//! To arrow function:
 const fullName = (firstname,lastname)=>`${firstname}${lastname}`// Your code here
 
 console.log(fullName("Shivam", "Dobhal"));  // "Shivam Dobhal"
