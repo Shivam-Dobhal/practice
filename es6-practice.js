@@ -159,3 +159,5 @@ const laptopInfo=({brand,ram,price})=>{
 
 
 console.log(laptopInfo(laptop));
+
+

@@ -144,7 +144,7 @@ console.log(evens);  // [2, 4, 6, 8, 10]
 const nums4 = [10, 20, 30, 40, 50];
 const sum = nums4.reduce((sum,num)=>{
   return sum=sum+num;
-},)
+},0)
 console.log(sum);  // 150
 
 
